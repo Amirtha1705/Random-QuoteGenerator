@@ -27,7 +27,7 @@ while True:
     if ch=="Cancel":
         print ("You pressed Cancel")
         break
-
+'''
 #---------------------------------METHOD 2--------------------------------------------
 import tkinter as tk
 import random
@@ -62,7 +62,7 @@ generate_button.pack(pady=10)
 
 # Run the main loop to display the window
 root.mainloop()
-  
+ ''' 
 
 
 
